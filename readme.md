@@ -1,3 +1,3 @@
-https://repl.it
-https://html5book.ru
-https://sqliteonline.com -- a_k_tut@mail.ru standart
+https://repl.it <br>
+https://html5book.ru <br>
+https://sqliteonline.com --standart <br>
