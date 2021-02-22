@@ -1,0 +1,34 @@
+.header {
+    padding: 30px 15px;
+    justify-content: center;
+    background-color: #634BBB;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.navbar img {
+    width: 80px;
+}
+
+.navbar a {
+    margin-left: 30px;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.header-center {
+    min-width: 250px;
+    display: flex;
+    align-items: center;
+}
+
+.header-right_city {
+    display: flex;
+}
+
+.header-right_city p {
+    display: inline-block;
+}
